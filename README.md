@@ -72,7 +72,7 @@ Para facilitar el desarrollo y las pruebas, este proyecto incluye **Swagger UI**
 Una vez que la aplicación esté en ejecución, puedes acceder a la interfaz web de Swagger en la siguiente URL:
 
 🔗 **URL de Swagger UI:**  
-[http://localhost:8080/api/swagger-ui/index.html#/](http://localhost:8080/api/swagger-ui/index.html#/)
+[http://localhost:8080/api/v1.5/swagger-ui/index.html#/](http://localhost:8080/api/v1.5/swagger-ui/index.html#/)
 
 > 🔒 **Nota:** Swagger estará disponible solo si el backend se está ejecutando correctamente y escuchando en el puerto `8080`. Asegúrate también de que el contexto base esté definido como `/api/` en el archivo `application.properties`.
 
